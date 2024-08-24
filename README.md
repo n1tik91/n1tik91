@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitik Adhikari.
-- 🌱 I’m currently learning C and Python.
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on making new projects.
 - 📫 How to reach me? mail me at n1tikk007@gmail.com
 <!---

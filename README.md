@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/n1tik91](https://github.com/n1tik91)
+- 👨‍💻 All of my projects are available at [https://github.com/n1tik91?tab=repositories)
 
 - 📫 How to reach me **n1tikk007@gmail.com**
 

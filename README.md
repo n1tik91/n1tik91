@@ -9,14 +9,18 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/n1tik91?tab=repositories)
+<!-- 👨‍💻 All of my projects are available at [https://github.com/n1tik91?tab=repositories) -->
 
 - 📫 How to reach me **n1tikk007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <!--Facebook :) -->
 <a href="https://fb.com/n1tik007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n1tik007" height="30" width="40" /></a>
+ <!--Youtube :) -->
 <a href="http://www.youtube.com/@N1tik007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="n1tikkk106" height="30" width="40" /></a>
+  <!--Discord :) -->
+ <a href="https://discord.gg/jz78V79eez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="//" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

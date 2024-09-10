@@ -1,9 +1,9 @@
 
 <!--[![@n1tik91's Holopin board](https://holopin.me/n1tik91)](https://holopin.io/@n1tik91) -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=33&pause=11000&color=A0F7C0&width=435&lines=Hi%2C+I'm+Nitik+Adhikari" alt="Typing SVG" />   
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=33&pause=110&color=00A6ED&width=435&lines=Hi%2C+I'm+Nitik+Adhikari" alt="Typing SVG" />   
 
  
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=12000&color=A0F7C0&width=435&lines=Currently+exploring." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=120&color=FFB400&width=435&lines=Currently+exploring." alt="Typing SVG" />
    <div align="left"> 
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">

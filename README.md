@@ -11,9 +11,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1tik91&label=Profile%20views&color=0e75b6&style=flat" alt="n1tik91" /> </p> -->
  <!--comments :) -->
 
-- 🌱 I’m currently learning **C++ & Blender**
+<!--- 🌱 I’m currently learning **C++ & Blender**
 
-<!-- 👨‍💻 All of my projects are available at [https://github.com/n1tik91?tab=repositories) -->
+ 👨‍💻 All of my projects are available at [https://github.com/n1tik91?tab=repositories) -->
 
 - 📫 How to reach me **n1tikk007@gmail.com**
 
